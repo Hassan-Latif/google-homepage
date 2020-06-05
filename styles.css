@@ -1,0 +1,24 @@
+
+
+#linkss{
+    width: 200px;
+    margin-left: auto;
+    
+    padding: 20px;
+}
+#linkss a{
+    color: black;
+    padding-left:10px; 
+}
+
+.formm{
+    width:40%;
+    border-radius:50px;
+    margin: 0 auto;
+    position: relative;
+    top: 150px;
+}
+.pad, h1 {
+    padding: 0px 80px 10px 80px ;
+    font-size: 64px;
+}
