@@ -28,3 +28,7 @@
 .cal{
     padding-left: 60px;
 }
+input{
+    border: 1px solid;
+    border-radius: 30px;
+}
